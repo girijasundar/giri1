@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class overlap
+class over
 {
 public static void main(String args[])
 {
