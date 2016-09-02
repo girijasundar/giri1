@@ -11,7 +11,7 @@ class complete
   String b=s.nextLine();
   String ss[]=b.split(" ");
   for(i=0;i<ss.length;i++)
-     e=e.concat(d[i]);
+     e=e.concat(ss[i]);
  if(e.length()>=26)
  {
   for(i=0;i<26;i++)
